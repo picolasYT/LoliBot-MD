@@ -186,7 +186,6 @@ npm start
   <sub>
     🚧 <b>Este repositorio publica la versión actual y oficial de LoliBot-MD.</b><br>
     📢 Es posible que el bot tenga algunas fallas; se irán corrigiendo conforme se detecten.<br>
-    ✂️ Si vas a editar o compartir el bot, <b>no elimines los créditos originales</b>.<br>
     🎯 Atento a las nuevas actualizaciones que se realicen en este repositorio.<br>
     🔒 <b>LoliBot-MD no se hace responsable</b> del uso, número, privacidad ni contenido enviado, usado o gestionado por los usuarios o el bot. Úsalo bajo tu responsabilidad.<br>
     🚧 <b>Actualmente está en versión <span style="color:#FF44CC">BETA</span> en desarrollo.</b><br>
